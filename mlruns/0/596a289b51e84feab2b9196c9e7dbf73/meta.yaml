@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLops%20project/project-dl-main/mlruns/0/596a289b51e84feab2b9196c9e7dbf73/artifacts
+end_time: 1744624873614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 596a289b51e84feab2b9196c9e7dbf73
+run_name: merciful-snake-215
+run_uuid: 596a289b51e84feab2b9196c9e7dbf73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744624855010
+status: 3
+tags: []
+user_id: Admin
