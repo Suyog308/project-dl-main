@@ -433,3 +433,23 @@ x==========x]
 [2025-04-15 14:57:36,375: INFO: stage_4_model_eval: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2025-04-15 15:22:31,221: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2025-04-15 15:22:31,317: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-15 15:22:31,327: INFO: _internal:  * Restarting with stat]
+[2025-04-15 15:22:45,174: WARNING: _internal:  * Debugger is active!]
+[2025-04-15 15:22:45,190: INFO: _internal:  * Debugger PIN: 427-896-946]
+[2025-04-15 15:24:55,371: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2025-04-15 15:24:55,371: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-15 15:24:55,379: INFO: _internal:  * Restarting with stat]
+[2025-04-15 15:25:05,984: WARNING: _internal:  * Debugger is active!]
+[2025-04-15 15:25:05,987: INFO: _internal:  * Debugger PIN: 427-896-946]
+[2025-04-15 15:27:38,912: INFO: _internal:  * Detected change in 'f:\\MLops project\\project-dl-main\\app.py', reloading]
+[2025-04-15 15:27:39,804: INFO: _internal:  * Restarting with stat]
+[2025-04-15 15:29:20,644: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.248.240:5000]
+[2025-04-15 15:29:20,645: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-15 15:30:33,517: INFO: _internal: 192.168.248.240 - - [15/Apr/2025 15:30:33] "GET / HTTP/1.1" 200 -]

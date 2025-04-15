@@ -22,3 +22,7 @@ git clone https://github.com/Suyog308/project-dl-main.git
 
 # Step-4 requirements
 pip install -r requirements.txt
+
+
+# deployment
+# docker, aws, ci/cd pipeline
