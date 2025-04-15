@@ -22,12 +22,12 @@ class EvaluationPipeline:
         evaluation = Evaluation(eval_config)
         evaluation.evaluation()
         evaluation.save_score()
-        os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/Suyog308/project-dl-main.mlflow"
-        os.environ["MLFLOW_TRACKING_USERNAME"]="Suyog308"
-        os.environ["MLFLOW_TRACKING_PASSWORD"]="2c5055dd91d6b039b7eb56a03f04323441f49527"
+        #os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/Suyog308/project-dl-main.mlflow"
+        #os.environ["MLFLOW_TRACKING_USERNAME"]="Suyog308"
+        #os.environ["MLFLOW_TRACKING_PASSWORD"]="2c5055dd91d6b039b7eb56a03f04323441f49527"
 
-        mlflow.set_tracking_uri("https://dagshub.com/Suyog308/project-dl-main.mlflow")
-        evaluation.log_into_mlflow()
+        #mlflow.set_tracking_uri("https://dagshub.com/Suyog308/project-dl-main.mlflow")
+        #evaluation.log_into_mlflow()
 
 
 
