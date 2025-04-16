@@ -15,7 +15,7 @@ class PredictionPipeline:
     def predict(self):
         # load model
         #model = load_model(os.path.join("model", "model.h5"))
-        model = load_model(r"F:\MLops project\project-dl-main\artifacts\training\model.h5")
+        model = load_model(os.path.join("model", "model.h5"))
 
 
         imagename = self.filename
